@@ -4,6 +4,11 @@ Basic and Simple Data analysis using Python
 ## 1.Dataset
 This is one of the famous dataset frequently used for the beginners to learn data science or machine learning.
 The source of dataset is Kaggle [Titanic Survival](https://www.kaggle.com/c/titanic-survival/overview).
+
+The goal of the contest was as blow:
+"In this contest, we ask you to complete the analysis of what sorts of people were likely to survive. 
+In particular, we ask you to apply the tools of Machine Learning to predict which passengers survived the tragedy."
+
 #### 1) Form of dataset
 Two datasets are provided: one is data set for training and the other one is test set.
 Both files are "CSV" i.e. comma separated version.
